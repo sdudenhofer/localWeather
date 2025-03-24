@@ -6,7 +6,9 @@ dist/
 wheels/
 *.egg-info
 logs/
-
+.ropeproject/
 # Virtual environments
 .venv
 .env
+.cache.sqlite
+.python-version
